@@ -98,7 +98,7 @@ which will produce the subgraph embeddings in `$output_file`, which can be used 
 ### Cite Elliptic2
 
 ```{bibtex}
-@MISC{random.walk,
+@MISC{Bellei2024,
   AUTHOR = {Claudio Bellei and Muhua Xu and Ross Phillips and Tom Robinson and Mark Weber and Tim Kaler and Charles E. Leiserson and Arvind and Jie Chen},
   TITLE = {The Shape of Money Laundering: Subgraph Representation Learning on the Blockchain with the {Elliptic2} Dataset},
   HOWPUBLISHED = {Preprint arXiv:2404.19109},
