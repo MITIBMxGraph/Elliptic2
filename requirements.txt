@@ -1,0 +1,18 @@
+python=3.9.16
+python-dateutil
+python-igraph
+python-louvain
+python_abi
+scikit-learn=1.1.1
+scipy=1.8.1
+seaborn=0.12.2
+numpy=1.23.4
+numpy-base=1.23.4
+networkx=2.8.4
+pyyaml=6.0
+tqdm=4.64.0
+matplotlib=3.5.2
+matplotlib-base=3.5.2
+matplotlib-inline=0.1.6
+gensim=4.2.0
+#conda create --name elliptic --file requirements.txt
